@@ -1,5 +1,3 @@
-.color{
-    background-color: red;
-    margin-top: 50px;
-    margin-left: 50px;
-}
+@import 'variables';
+@import 'settings';
+@import 'blocks/header';
